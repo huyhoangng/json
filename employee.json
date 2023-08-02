@@ -1,0 +1,27 @@
+[
+    {
+        "name":"ThiDK",
+        "city":"Ha Noi",
+        "state":"HN"
+    },
+    {
+        "name":"Hoang Beo",
+        "city":"Texas",
+        "state":"TX"
+    },
+    {
+        "name":"Anh Luc",
+        "city":"Ha Nam",
+        "state":"HN"
+    },
+    {
+        "name":"Hieu Phan",
+        "city":"Ha Noi",
+        "state":"HN"
+    },
+    {
+        "name":"Thanh Dang",
+        "city":"Bac Ninh",
+        "state":"BN"
+    }
+]
